@@ -1,12 +1,11 @@
 ## about me
 
--👋 Hi, I’m Stephen paul
--😊 I'm a web developer from nigeria
--💞️ I’m down for whatever would help me develop my skills as a programmer
+-👋 Hi, I’m Osesojeh Sylvester-Paul
+-😊 I'm a front end developer studying computer science at Bells University of Technology, Ota
+-💞️ I love a challenge and something to push my limits as a developer. I also really love music😁
 
 ## contact me
 
--📫 message @stephen paul Facebook and Instagram @stephen_paul
 -📧 you can email me sylvesterpaulstephen1234@gmail.com
 
 <!---
