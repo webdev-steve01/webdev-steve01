@@ -1,14 +1,16 @@
-## about me
+👨‍💻 About Me
+👋 Hi, I’m Sylvester-Paul O. Stephen
 
--👋 Hi, I’m Osesojeh Sylvester-Paul
--😊 I'm a front end developer studying computer science at Bells University of Technology, Ota
--💞️ I love a challenge and something to push my limits as a developer. I also really love music😁
+🎓 A Frontend Developer and Computer Science student at Bells University of Technology, Ota
 
-## contact me
+💡 I thrive on challenges that push my limits and help me grow as a developer
 
--📧 you can email me sylvesterpaulstephen1234@gmail.com
+🎶 When I’m not coding, you’ll find me vibing to music or discovering new sounds
 
-<!---
-webdev-steve01/webdev-steve01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📬 Contact Me
+📧 Email: sylvesterpaulstephen1234@gmail.com
+
+🌐 Portfolio: your-portfolio-link.com
+
+💼 LinkedIn: [lMy linkedin](https://www.linkedin.com/in/osesojeh-sylvester-paul-2bb872286/)
+
