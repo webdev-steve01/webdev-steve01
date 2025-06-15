@@ -10,7 +10,7 @@
 📬 Contact Me
 📧 Email: sylvesterpaulstephen1234@gmail.com
 
-🌐 Portfolio: your-portfolio-link.com
+🌐 Portfolio: [My Website](https://stephen-paul.vercel.app/)
 
-💼 LinkedIn: [lMy linkedin](https://www.linkedin.com/in/osesojeh-sylvester-paul-2bb872286/)
+💼 LinkedIn: [My linkedin](https://www.linkedin.com/in/osesojeh-sylvester-paul-2bb872286/)
 
