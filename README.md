@@ -1,16 +1,37 @@
-👨‍💻 About Me
-👋 Hi, I’m Sylvester-Paul O. Stephen
+# 👋 Hi, I'm Steve! (webdev-steve01)
 
-🎓 A Frontend Developer and Computer Science student at Bells University of Technology, Ota
+Welcome to my GitHub profile!  
+I'm a **Frontend Engineer** with **fullstack capabilities** who loves to solve problems, listen to music, and continuously grow my skills. 🚀
 
-💡 I thrive on challenges that push my limits and help me grow as a developer
+## 💻 Tech Stack
+- **React** & **Next.js**
+- **Tailwind CSS**
+- **TypeScript**
+- **MongoDB**
 
-🎶 When I’m not coding, you’ll find me vibing to music or discovering new sounds
+## 🧠 About Me
+- Problem-solving enthusiast 🧩  
+- Always learning something new 📚  
+- Music fuels my code 🎧  
+- Growth-minded and curious 🌱  
 
-📬 Contact Me
-📧 Email: sylvesterpaulstephen1234@gmail.com
+## 🌐 Find Me Online
+- Portfolio: [stephen-paul.vercel.app](https://stephen-paul.vercel.app/)  
+- LinkedIn: [osesojeh-sylvester-paul](https://www.linkedin.com/in/osesojeh-sylvester-paul-2bb872286/)
 
-🌐 Portfolio: [My Website](https://stephen-paul.vercel.app/)
+## 📱 Contact
+- WhatsApp: **08163122231**
 
-💼 LinkedIn: [My linkedin](https://www.linkedin.com/in/osesojeh-sylvester-paul-2bb872286/)
+<!--
+## 🏆 Featured Projects
+*Stay tuned for awesome projects soon!*
+-->
 
+## 😄 Fun Facts
+- I believe coding is a superpower!  
+- I thrive in playful, collaborative environments.  
+- Always up for tech chats or music recommendations.
+
+---
+
+Thanks for stopping by! Let's connect, collaborate, and keep growing together. 🌟
