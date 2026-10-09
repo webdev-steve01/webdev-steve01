@@ -1,90 +1,112 @@
-# OSESOJEH STEPHEN SYLVESTER-PAUL
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-</div>
-
-## 👋🏽 About Me
-I am a Frontend Software Engineer based in Lagos, Nigeria. I build modern, scalable web applications with clean architecture, reusable components, and intuitive user interfaces.
-
-📍 Lagos, Nigeria | 📧 [stephenpaul.code@gmail.com](mailto:stephenpaul.code@gmail.com)
-
-## 💻 Technical Skills
-
-**Frontend Development**
-- Next.js & React (Modern web app development with SSR/SSG)
-- TypeScript (Strongly-typed, scalable applications)
-- Tailwind CSS (Utility-first, responsive UI design)
-- Firebase (Authentication, Firestore, Hosting, Cloud Functions)
-- REST & GraphQL API Integration
-- Jest & React Testing Library (Unit and integration testing)
-- GitHub Actions (CI/CD workflows & automated deployments)
-
-**Backend Development**
-- NodeJS (Typescript)
-
-**Database Management**
-- MongoDB
-- Firebase Cloud Firestore
-- Postgresql
-
-**Other Tools**
-- Git & GitHub
-- UI/UX Design Principles
-
-## 🧠 Soft Skills
-- Communication & Collaboration
-- Leadership & Team Management
-- Problem-solving & Critical Thinking
-- Time Management & Organization
-
-## 🚀 Professional Experience
-
-### Frontend Engineer | Lendsqr | Lagos, Nigeria
-*Sep 2025 – Present*
-
-- Built and optimized responsive, user-focused web interfaces with Next.js, React, and Tailwind CSS, improving page load speed and overall user experience.  
-- Collaborated with product designers to translate Figma mockups into pixel-perfect, accessible UI components.  
-- Implemented dynamic data tables, advanced filtering, and pagination with React Query and TanStack Table, streamlining user data exploration.  
-- Improved code quality and reliability by introducing TypeScript and writing unit tests with Jest and React Testing Library.  
-- Automated builds and deployments via GitHub Actions and Vercel, reducing release cycle time by 70%.  
-
-
-## 🎓 Education
-
-**Bachelor of Technology, Computer Science**
-*Bells University of Technology, Ogun state, Nigeria* | 2022 - 2027
-
-## 🔗 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/ebinehita-sylvester-paul-1176ab221?utm_source=share&utm_campaign=share_via&utm_content=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/osesojeh-sylvester-paul-2bb872286" height="30" width="40" /></a>
-
-<a href="https://twitter.com/Osesojeh01" target="_blank">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-</a>
-
-<a href="https://wa.me/2348163122231" target="_blank">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Whatsapp" height="30" width="40" />
-</a>
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:38bdf8&height=200&section=header&text=Osesojeh%20Sylvester-Paul&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Software%20Engineer%20%E2%80%A2%20Lagos%2C%20Nigeria&descSize=16&descAlignY=58&animation=fadeIn" alt="header" />
 </p>
 
-## 📈 GitHub Stats
+<p align="center">
+  <a href="https://github.com/webdev-steve01">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=I+build+fast%2C+accessible+web+apps.;Next.js+%E2%80%A2+React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Turning+Figma+into+pixel-perfect+UI.;Clean+architecture.+Reusable+components." alt="Typing SVG" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=webdev-steve01&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=webdev-steve01&theme=tokyonight" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/osesojeh-sylvester-paul-2bb872286"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/Osesojeh01"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:stephenpaul.code@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wa.me/2348163122231"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <img src="https://komarev.com/ghpvc/?username=webdev-steve01&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
-## 💬 Let's Collaborate
+---
 
-I'm enthusiastic about the potential of collaboration and the remarkable outcomes it can produce. If you're interested in working together on web development or other exciting projects, please feel free to send me a direct message!
+### `> whoami`
 
-<a href="https://wa.me/2348163122231" target="_blank">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Whatsapp" height="30" width="40" />
-</a>
+```ts
+const osesojeh = {
+  role: "Frontend Software Engineer",
+  location: "Lagos, Nigeria 🇳🇬",
+  focus: ["Scalable web apps", "Design systems", "Developer experience"],
+  stack: {
+    frontend: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
+    backend: ["Node.js (TypeScript)", "Firebase", "REST", "GraphQL"],
+    data: ["PostgreSQL", "MongoDB", "Cloud Firestore"],
+    quality: ["Jest", "React Testing Library", "GitHub Actions"],
+  },
+  principles: ["Ship small, ship often", "Accessibility is a feature", "Types > guesswork"],
+  openTo: ["Collaborations", "Freelance projects", "Open-source"],
+};
+```
+
+### ⚡ Right now
+
+- 🔭 Building responsive, accessible products with **Next.js + TypeScript**
+- 🌱 Going deeper on **backend architecture with Node.js** and **PostgreSQL**
+- 🤝 Open to **collaborations** on web products and open-source
+- 💬 Ask me about **React, Next.js, Firebase, testing, or CI/CD**
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css&perline=7" alt="Frontend" />
+  </a>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,firebase,graphql,postgres,mongodb&perline=7" alt="Backend & Data" />
+  </a>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jest,githubactions,vercel,git,github,figma,vscode&perline=7" alt="Tooling" />
+  </a>
+</p>
+
+---
+
+### 🚀 What I Bring
+
+| | |
+|---|---|
+| ⚡ **Performance-first UI** | Responsive interfaces in Next.js, React & Tailwind tuned for faster loads and smoother UX |
+| 🎨 **Design → Code** | Figma mockups translated into pixel-perfect, accessible, reusable components |
+| 📊 **Data-heavy interfaces** | Dynamic tables, advanced filtering & pagination with React Query and TanStack Table |
+| 🧪 **Reliable code** | TypeScript adoption plus unit & integration tests with Jest and React Testing Library |
+| 🔁 **Automated delivery** | CI/CD with GitHub Actions + Vercel — cut release cycle time by **~70%** |
+
+---
+
+### 📈 GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=webdev-steve01&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdev-steve01&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=webdev-steve01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=webdev-steve01&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+### 🎓 Education
+
+**B.Tech, Computer Science** — Bells University of Technology, Ogun State, Nigeria · *2022 – 2027 (expected)*
+
+### 🧠 Beyond the Code
+
+`Communication & Collaboration` · `Leadership & Team Management` · `Problem-solving` · `Critical Thinking` · `Time Management`
+
+---
+
+### 💬 Let's Build Something
+
+I enjoy working with people who care about craft. If you have a web product, an open-source idea, or a role where good frontend engineering matters, **[send me an email](mailto:stephenpaul.code@gmail.com)** or **[message me on WhatsApp](https://wa.me/2348163122231)**.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e3a8a,100:0f172a&height=110&section=footer" alt="footer" />
+</p>
